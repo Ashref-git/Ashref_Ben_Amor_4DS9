@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>tn.esprit</groupId>
-    <artifactId>Ashref_Ben_Amor_4DS9</artifactId>
+    <artifactId>correctiontp2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Ashref_Ben_Amor_4DS9</name>
-    <description>Ashref_Ben_Amor_4DS9</description>
+    <name>correctiontp2</name>
+    <description>correctiontp2</description>
     <url/>
     <licenses>
         <license/>
@@ -34,7 +34,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-jpa</artifactId>
         </dependency>
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-webmvc</artifactId>
